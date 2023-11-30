@@ -31,7 +31,7 @@
   "dependencies": {
     "aws-sdk": "^2.6.6",
     "bluebird": "^3.4.6",
-    "del": "^2.2.2",
+    "del": "^6.0.0",
     "ejs": "^2.5.2",
     "haml": "^0.4.3",
     "handlebars": "^4.0.5",
